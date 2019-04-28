@@ -1,0 +1,4 @@
+<view>
+  请求测试接口，获取随机诗句
+  <view class="femalecss" wx:for="{{femaleList}}">{{item.femalename}}</view>
+</view>
